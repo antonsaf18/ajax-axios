@@ -1,0 +1,39 @@
+{
+    "people": [
+        {
+            "name": "Toyota",
+            "surname": "Chaser",
+            "motor": "1jz-ge",
+            "specification": "1jz-ge",
+            "photo": "https://s.auto.drom.ru/i24238/s/photos/35912/35911100/ttn_452185531.jpg"
+        },
+        {
+            "name": "Toyota",
+            "surname": "Supra",
+            "motor": "2jz-gte",
+            "specification": "2jz-gte",
+            "photo": "https://i.pinimg.com/736x/89/b9/fe/89b9fe52d288fab0e7b3fb1def92498b.jpg"
+        },
+        {
+            "name": "Toyota",
+            "surname": "Mark II",
+            "motor": "1jz-gte",
+            "specification": "1jz-gte",
+            "photo": "https://carfromjapan.com/wp-content/uploads/2019/03/Mark-II-performance.jpg"
+        },
+        {
+            "name": "Toyota",
+            "surname": "Cresta",
+            "motor": "2jz-ge",
+            "specification": "2jz-ge",
+            "photo": "https://avatars.mds.yandex.net/get-autoru-vos/2189734/f11c6feab6ea9a811a3a1635387c845d/1200x900"
+        },
+        {
+            "name": "Toyota",
+            "surname": "Altezza",
+            "motor": "1g-fe_beams",
+            "specification": "1g-fe_beams",
+            "photo": "https://avatars.mds.yandex.net/get-autoru-vos/2161086/d1e6dbf583fe1411ac198c590ccfcaa0/1200x900"
+        }
+    ]
+}
