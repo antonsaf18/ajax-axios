@@ -12,5 +12,5 @@ npm install -g json-server
 json-server db.json
 Go Live
 ```
-<img src="screencast-nimbus-capture-2020.08.11-00_37_43.gif" alt="">
+<img src="demo.gif" alt="">
 
