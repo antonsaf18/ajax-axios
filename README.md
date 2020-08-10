@@ -12,5 +12,5 @@ npm install -g json-server
 json-server db.json
 Go Live
 ```
-<img style="width: 150px" src="demo.gif" alt="">
+<img style="width: 1150px" src="demo.gif" alt="">
 
