@@ -8,6 +8,7 @@
 ```
 git clone https://github.com/antonsaf18/ajax-axios.git
 cd ajax-axios
+npm install -g json-server
 json-server db.json
 Go Live
 ```
